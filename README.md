@@ -10,7 +10,9 @@ MegaExV is the code used to communicate from the Mega to the ESP32.
 
 ESPExV is the code used to read the Mega's serial message.
 
-This is just created to help people learn how to make the Mega communicate to the ESP32. Any other questions are able to be answered by looking at the Arduino Mega information of the individual ESP32 information.
+Overall the code is a simple program. All it does it the Mega generates a random number and then sends it over Serial to the ESP32, ESP32 then reads the randonnumber and depending on the random number it will light up an LED.
+
+This is created to help people learn how to make the Mega communicate to the ESP32. Any other questions are able to be answered by looking at the Arduino Mega information of the individual ESP32 information.
 
 I will be uploading a video for more detail on how to upload code to the Mega, ESP, see Mega's serial, see the EPS's serial and how to allow communication between both.
 
