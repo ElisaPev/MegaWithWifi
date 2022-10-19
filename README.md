@@ -9,3 +9,5 @@ ESPExV and MegaEXv
 MegaExV is the code used to communicate from the Mega to the ESP32.
 
 ESPExV is the code used to read the Mega's serial message.
+
+This is just created to help people learn how to make the Mega communicate to the ESP32. Any other questions are able to be answered by looking at the Arduino Mega information of the individual ESP32 information.
