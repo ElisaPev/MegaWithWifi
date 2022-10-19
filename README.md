@@ -1,4 +1,4 @@
-# MegaWithWifi
+# Mega With Wifi
 Documentation for the Mega with Wifi to help anyone
 The Mega with Wifi is comprised of an Arduino Mega and has an ESP32 added on for the Wifi potential.
 
